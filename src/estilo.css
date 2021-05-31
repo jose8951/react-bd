@@ -1,0 +1,6 @@
+.tonto{
+    display: grid;
+    grid-template-columns: auto auto;
+  
+    padding: 5px;
+}
